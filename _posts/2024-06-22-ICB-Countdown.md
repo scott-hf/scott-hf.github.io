@@ -13,7 +13,7 @@ image:
 
 ## Improbability Control Bureau
 
-Monitor live surveillance cameras. Spot anomalies. From eerie furniture shifts to unexpected intrusions, report anomalies to correct them and survive.
+Monitor live surveillance cameras.. Spot anomalies. From eerie furniture shifts to unexpected intrusions, report anomalies to correct them and survive.
 
 My girlfriend and I have been working on this game for about a year now and it is about to release!
 
